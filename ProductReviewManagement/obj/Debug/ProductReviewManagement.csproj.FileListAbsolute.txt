@@ -1,0 +1,8 @@
+C:\Users\ravikishore\source\repos\ProductReviewManagement\ProductReviewManagement\bin\Debug\ProductReviewManagement.exe.config
+C:\Users\ravikishore\source\repos\ProductReviewManagement\ProductReviewManagement\bin\Debug\ProductReviewManagement.exe
+C:\Users\ravikishore\source\repos\ProductReviewManagement\ProductReviewManagement\bin\Debug\ProductReviewManagement.pdb
+C:\Users\ravikishore\source\repos\ProductReviewManagement\ProductReviewManagement\obj\Debug\ProductReviewManagement.csproj.AssemblyReference.cache
+C:\Users\ravikishore\source\repos\ProductReviewManagement\ProductReviewManagement\obj\Debug\ProductReviewManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\ravikishore\source\repos\ProductReviewManagement\ProductReviewManagement\obj\Debug\ProductReviewManagement.csproj.CoreCompileInputs.cache
+C:\Users\ravikishore\source\repos\ProductReviewManagement\ProductReviewManagement\obj\Debug\ProductReviewManagement.exe
+C:\Users\ravikishore\source\repos\ProductReviewManagement\ProductReviewManagement\obj\Debug\ProductReviewManagement.pdb
