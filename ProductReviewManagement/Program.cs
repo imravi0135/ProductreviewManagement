@@ -52,21 +52,28 @@ namespace ProductReviewManagement
         }
 
         public static void Main(string[] args)
+
+
         {
             Console.WriteLine("Welcome to Product Review Management using LINQ");
             Program program = new Program();
             Managenent management = new Managenent();
             int option;
             do
-            {
+            {              
                 Console.WriteLine("Choose a Number:");
                 Console.WriteLine("1 to display the list of items");
+                Console.WriteLine("2 Retrieving Top 3 records based on rating: ");
                 Console.WriteLine("0 to EXIT");
-                option = Convert.ToInt32(Console.ReadLine());
+                option = Convert.ToInt32(Console.ReadLine());          
                 switch (option)
                 {
                     case 1:
                         program.DisplayList(program.ProductReviewList);
+                        break;
+
+                    case 2:
+                        management.TopRecords(program.ProductReviewList);
                         break;
 
                     default:
